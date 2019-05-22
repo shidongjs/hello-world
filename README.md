@@ -94,8 +94,4 @@ Private Sub CommandButton1_Click()
 
     MsgBox (n & "个文件夹及相应文件创建完成!")
 
-
-
-
-
 End Sub
